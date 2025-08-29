@@ -26,7 +26,7 @@ It allows users to **sign up, log in, add recipes, and view recipes** with authe
 ---
 
 ## 📂 Project Structure
-
+```bash
 ├── backend
     ├── .env
     ├── config
@@ -73,6 +73,7 @@ It allows users to **sign up, log in, add recipes, and view recipes** with authe
             │   ├── RecipeDetails.jsx
             │   └── home.jsx
         └── vite.config.js
+```
 ---
 
 ## ⚙️ Installation & Setup
